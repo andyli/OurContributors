@@ -1,0 +1,23 @@
+{
+  "name": "ourcontributors",
+  "version": "0.1.0",
+  "description": "Provide images of contributors of a Github repo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyli/OurContributors.git"
+  },
+  "author": "Andy Li <andy@onthewings.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andyli/OurContributors/issues"
+  },
+  "homepage": "https://github.com/andyli/OurContributors#readme",
+  "dependencies": {
+    "github": "^0.2.4",
+    "github-api": "^2.3.0"
+  }
+}
